@@ -2,6 +2,10 @@
 
 Python implementation of Server List Ping.
 
+## Requirements
+
+* Python 3
+
 ## Installation
 
 ```sh
